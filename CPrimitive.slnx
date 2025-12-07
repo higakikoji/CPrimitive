@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CPrimitive/CPrimitive.vcxproj" Id="e58b3337-5209-4e5d-bcc9-c0520aca4144" />
+</Solution>
