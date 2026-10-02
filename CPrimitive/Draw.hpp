@@ -25,6 +25,7 @@ public:
     Cyan = D2D1::ColorF::Cyan,
     DimGray = D2D1::ColorF::DimGray,
     Gray = D2D1::ColorF::Gray,
+    LightGray = D2D1::ColorF::LightGray,
     Red = D2D1::ColorF::Red,
     Magenta = D2D1::ColorF::Magenta,
     Yellow = D2D1::ColorF::Yellow,
